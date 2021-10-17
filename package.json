@@ -1,0 +1,16 @@
+{
+  "name": "rcordic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "fixed2float": "latest",
+    "nodeplotlib": "latest",
+    "lodash": "latest"
+  },
+  "author": "",
+  "license": "ISC"
+}
